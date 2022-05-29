@@ -11,4 +11,4 @@
 - <strong>DB_USERNAME</strong> => The Username of the Database User
 - <strong>DB_PASSWORD</strong> => The Password of the Database User
 - <strong>DB_DATABASE</strong> => The Database Name
-- <strong>DB_PORT</strong> => The Database Port if not changed enter => <strong>"3306"</strong>
+- <strong>DB_PORT</strong> => The Database Port, if not changed enter => <strong>"3306"</strong>
